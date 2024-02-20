@@ -17,9 +17,13 @@ In this project, I practiced the following:
 
 ### Check out the dashboard on Tableau Public
 
-🔗 Link: https://shorturl.at/stQW6
+🔗 Link: [Click here](https://public.tableau.com/views/PracticeLondonBikeRides/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ![Alt text](tableau_image.png)
 <br />
 <br />
 ![Alt text](tableau_image_tooltip.png)
+
+
+### Dataset Source
+🔗 Link: https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
