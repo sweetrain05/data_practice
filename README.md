@@ -2,10 +2,10 @@
 
 In this project, I practiced the following:
 
--   Data preprocessing using Python: - Renaming columns & data mapping.
+-   Data preprocessing using Python: <br /> - Renaming columns & data mapping.
     <br />
 
--   Data visualization using Tableau: - Created interactive dashboard. - Set a date range filter that allows viewers to select a specific timeframe for analysis. - Dynamically connect data to show filtered results. - Utilize heatmap for pattern identification. - Apply moving averages to spot trends over time. - Embed dynamic data in tooltips for richer insights.
+-   Data visualization using Tableau: <br /> - Created interactive dashboard. <br /> - Set a date range filter that allows viewers to select a specific timeframe for analysis. <br /> - Dynamically connect data to show filtered results. <br /> - Utilize heatmap for pattern identification. <br /> - Apply moving averages to spot trends over time. <br /> - Embed dynamic data in tooltips for richer insights.<br />
     <br />
 
 ### Check out the dashboard on Tableau Public
